@@ -1,0 +1,39 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: url("https://images2.alphacoders.com/135/thumb-350-1353436.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 12px;
+  background:url("https://t3.ftcdn.net/jpg/06/83/94/28/240_F_683942890_c2GjYVRjPh9Wu1YYSqTf8M65ystdhpBR.jpg");
+  border-radius: 5px;
+  box-shadow: rgb(38, 57, 77) 0 px 20px 30px -10px;
+}
+input {
+  outline: none;
+  border: none;
+  padding: 5px;
+}
+button {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  border: 2px solid white;
+  background: rgb(0, 255, 55);
+  display: block;
+  margin-top: 10%;
+  cursor: pointer;
+}
+span {
+  color: red;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+}
